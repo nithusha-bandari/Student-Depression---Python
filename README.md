@@ -25,5 +25,6 @@ Built a unified subplot dashboard
 Derived key mental health trends using only Matplotlib
 
 # 🔗 Links
-📥 Dataset Source: Student Mental Health Dataset on Kaggle
-📄 Documentation : Project Documentation
+📥 **Dataset Source:** Student Mental Health Dataset on Kaggle(https://github.com/nithusha-bandari/Student-Depression---Python/blob/main/student_depression_dataset.csv)
+📄**Documentation**: Project Documentation(https://github.com/nithusha-bandari/Student-Depression---Python/blob/main/Student%20Depression%20Dashboard.docx)
+
